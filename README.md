@@ -46,8 +46,10 @@ THEN I am presented with a responsive layout that adapts to my viewport
 ## Mock-Up
 
 The following animation shows the web application's appearance and functionality:
-![02-advanced-css-homework-demo](https://user-images.githubusercontent.com/115047281/210923955-9990491f-7c3b-4330-9b2c-f8fd346769e0.gif)
+![02-advanced-![Screenshot 2023-05-31 at 12 12 27 AM](https://github.com/mhamze23/Module2-Challenge/assets/115047281/10c79dd3-68fa-4ca6-85e9-9b331ae52cd0)
 
+
+![02-advanced-css-homework-demo](https://github.com/mhamze23/Module2-Challenge/assets/115047281/44599efb-69ba-4a2b-b3a5-3c61af883d18)
 
 - - -
 © 2022 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.
